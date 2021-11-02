@@ -1,0 +1,130 @@
+.nav-bar{
+    background-color: rgb(43, 24, 24);
+    padding: 5px;
+}
+.nav-bar h2{
+    color: #fed136 !important;
+    font-size: 30px !important;
+    font-family: 'Architects Daughter', cursive !important;
+}
+.nav-link{
+    font-size: 18px;
+    color: #fff !important;
+    transition: all 0.3s;
+}
+.nav-link:hover{
+    color: #fed136 !important;
+}
+.slide{
+    background-image: url("../images/img/header-bg.jpg");
+    text-align: center;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 10.5rem;
+    padding-bottom: 10rem;
+}
+#h2{
+    font-size: 50px !important;
+    font-weight: bold !important;
+    
+}
+#but1{
+    border: none;
+    padding: 20px;
+    width: 170px;
+    color: #fff;
+    font-size: 18px;
+    background-color: #fed136;
+    border-radius: 8px;
+    transition: all 0.2s;
+}
+#but1:hover{
+    background-color: #c2a12a;
+}
+.services i{
+    font-size: 70px;
+    background-color: #fed136;
+    border-radius: 100%;
+    padding: 30px;
+    color: #fff;
+}
+.portfolio{
+    background-color: #f8f9fa;
+}
+.item1 img{
+    width: 100%;
+}
+.item1{
+    background-color: #fff;
+    
+}
+.items{
+    text-align: justify;
+    direction: rtl;
+}
+.about img{
+    border-radius: 50%;
+}
+.dir{
+    direction: rtl;
+}
+.items2{
+    direction: ltr;
+    text-align: justify;
+}
+.our-team{
+    background-color: #f8f9fa;
+}
+.item img{
+    border-radius: 50%;
+    border: 10px solid rgb(179, 172, 172);
+}
+.our-team i{
+    font-size: 25px;
+    margin-right: 10px;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    border-radius: 50%;
+}
+.contact{
+    background-image: url("../images/img/nasa.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+form input{
+    width: 100%;
+    padding: 10px;
+}
+textarea {
+    width: 100%;
+    height: 175px;
+    padding: 10px;
+}
+#but2{
+    border: none;
+    padding: 20px;
+    width: 170px;
+    color: #fff;
+    font-size: 18px;
+    background-color: #fed136;
+    border-radius: 8px;
+    transition: all 0.2s;
+}
+#but2:hover{
+    background-color: #c2a12a;
+}
+i{
+    color: #fff;
+    background-color: #000;
+    padding: 10px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+.footer span{
+    margin-left: 10px;
+}
